@@ -35,8 +35,6 @@ lab/
   notes/
 ```
 
-> This structure is flexible — I’ll adjust it as the repo grows.
-
 ---
 
 ## How to run
